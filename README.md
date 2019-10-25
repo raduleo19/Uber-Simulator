@@ -1,7 +1,3 @@
-# Copyright 2019 Rica Radu Leonard
-# 315CA
-# Tema 2: Uber
-
 ## Main Logic
 ### Task 1
 I just read the graph. I precompute all the distances and print
